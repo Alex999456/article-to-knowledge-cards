@@ -1,4 +1,4 @@
 interface:
   display_name: "知識卡片"
-  short_description: "將貼上的文章或本地 TXT 整理成忠於原文、去重且一張一重點的知識卡片"
-  default_prompt: "請使用 $make-knowledge-cards，將以下文章或指定的本地 TXT 整理成知識卡片。"
+  short_description: "將文章或本地 TXT 整理成固定 9 張知識卡片，忠於原文且不重複"
+  default_prompt: "請使用 $make-knowledge-cards，將以下文章或指定的本地 TXT 整理成固定 9 張知識卡片。"
